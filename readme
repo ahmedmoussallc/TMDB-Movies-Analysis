@@ -1,0 +1,13 @@
+In this project
+
+We take an indepth look into the TMDB movies dataset.
+Perform Data wrangling and cleaning
+Explore the data
+Ask some Questions such as:
+
+1 - What is happening to the movie rating performance over the years?
+2 - Is the movie business making more profit over the years or less?
+3 - Are the number of movies increasing per year?
+4 - What's the distribution of the movies runtime values?
+5 - What's the relationship between budget spent on a movie and it's popularity?
+6 - Finally, what's the relationship between budget spent and profit acquired?
